@@ -1,0 +1,84 @@
+TS_GF_001 – ESHOP -> TC_GF_ESHOP_001 - Redirecting to Instagram e-shop	+                                                    
+    TS_GF_ESHOP_001 – Description of the Instagram product 
+        TC_GF_ESHOP_001_002 - Appearing product description +
+        TC_GF_ESHOP_001_003 - “Thumbs up” button +
+    TS_GF_ESHOP_002 – Opening the product webpage (Instagram e-shop)	
+        TC_GF_ESHOP_002_004 - Redirecting to the product webpage + 
+    TS_GF_ESHOP_003 – Adding a product into shopping cart	    
+        TC_GF_ESHOP_003_005 - Changing size of the product +
+        TC_GF_ESHOP_003_006 - Adding quantity of the product +
+        TC_GF_ESHOP_003_007 - Adding product into shopping cart +
+    TS_GF_ESHOP_004 – Adding a product into “Wishlist”	
+        TC_GF_ESHOP_004_008 - Adding product into “Wishlist” +
+    TS_GF_ESHOP_005 – Redirecting to “Wishlist” page	
+        TC_GF_ESHOP_005_009 - Redirecting to “Wishlist” page 
+    TS_GF_ESHOP_006 – Manipulation with product in “Wishlist” page	
+        TC_GF_ESHOP_006_010 - Adding product from “Wishlist” to shopping cart 
+        TC_GF_ESHOP_006_011 - Deleting product from “Wishlist” +
+    TS_GF_ESHOP_007 – Opening the shopping cart	
+        TC_GF_ESHOP_007_012 - Redirecting to shopping cart webpage +
+    TS_GF_ESHOP_008 – Manipulating with product in shopping cart	
+        TC_GF_ESHOP_008_013 - Increase quantity of product	
+        TC_GF_ESHOP_008_014 - Decrease quantity of product
+        TC_GF_ESHOP_008_015 - Name	Deletion of product from shopping cart
+        TC_GF_ESHOP_008_016 - Manual deletion of product from shopping cart
+TS_GF_002 – CONTACT US	
+    TC_GF_CONTACT_US_017 - Enter a valid information into fields
+    TC_GF_CONTACT_US_018 - Enter a combination of valid and invalid information into fields
+    TC_GF_CONTACT_US_019 - Enter a combination of valid and invalid information into fields
+    TC_GF_CONTACT_US_020 - Enter a combination of valid and invalid information into fields
+TS_GF_003 – FAQ	-> TC_GF_FAQ_021 - Verification of written content in subsection
+    TS_GF_FAQ_001 – Validation of input field	
+        TC_GF_FAQ_001_022 - Verifying of validation of input field using special symbols
+        TC_GF_FAQ_001_023 - Checking a validation of input field using a foreign language
+        TC_GF_FAQ_001_024 - Checking a validation of input field using appropriate request
+TS_GF_004 – SOCIAL MEDIA BUTTONS	
+    TC_GF_SOC_MED_025 - Redirection to social media webpage (Facebook)
+    TC_GF_SOC_MED_026 - Redirection to social media webpage (Instagram)
+    TC_GF_SOC_MED_027 - Redirection to social media webpage (Twitter)
+    TC_GF_SOC_MED_028 - Redirection to social media webpage (Pinterest)
+    TC_GF_SOC_MED_029 - Redirection to social media webpage (YouTube)
+TS_GF_005 – CURRENCY	
+    TC_GF_CURRENCY_030 - Changing currency from one to another EUR -> CZK
+    TC_GF_CURRENCY_031 - Changing currency from one to another CZK -> USD
+TS_GF_006 – LOGIN	
+    TC_GF_LOGIN_032 - Log in with invalid credentials
+    TC_GF_LOGIN_033 - Log in with valid credentials
+    TC_GF_LOGIN_034 - Forgot password
+    TC_GF_LOGIN_035 - Name	Return to store
+    TC_GF_LOGIN_036 - Log out
+TS_GF_007 – Main Page Functions	
+    TC_GF_Main_Page_Functions_037 - Scroll to top of the page
+    TC_GF_Main_Page_Functions_038 - Shop by style section
+    TC_GF_Main_Page_Functions_039 - Pictures from our Community
+    TC_GF_Main_Page_Functions_040 - Pictures from our Community Load More
+    TC_GF_Main_Page_Functions_041 - Load main page video
+TS_GF_008 – Blog	
+    TC_GF_Blog_042 - Blog read post
+    TC_GF_Blog_043 - Blog second page
+    TC_GF_Blog_044 - Blog Categories
+TS_GF_009 – Rewards	
+    TC_GF_Blog_045 - Rewards
+    TC_GF_Blog_046 - Rewards History
+    TC_GF_Blog_047 - Rewards Refer a friend
+TS_GF_010 – Browse	
+    TC_GF_Browse_048 - Browse products
+    TC_GF_Switch_Category_049 - Switch view
+TS_GF_012 – Sort By	
+    TC_GF_Sort_By_050 - Product type
+    TC_GF_Sort_By_051 - Price
+    TC_GF_Sort_By_052 - Color
+    TC_GF_Sort_By_053 - Material
+    TC_GF_Sort_By_054 - Select multiple categories
+    TC_GF_Sort_By_055 - Clear categories
+TS_GF_013 – Grimtube	
+    TC_GF_Grimtube_056 - Grimtube
+TS_GF_014 – Menu bar	
+    TS_GF_014_Menu_Bar_001 – Logo	
+        TC_GF_Logo_057 - Back to main page
+    TS_GF_014_Menu_Bar_002 – Read more	
+        TC_GF_Read_More_058 - Join our horde 
+    TS_GF_014_Menu_Bar_003 – Live Agent	
+        TC_GF_LiveAgent_059 - LiveAgent 
+    TS_GF_014_Menu_Bar_004 – Sales	
+        TC_GF_Sales_060 - Sales 
